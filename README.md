@@ -24,7 +24,8 @@ The game also includes a preview of the next falling piece and adapts its layout
 
 ### Objective
 
-The goal of Tetris is to clear lines by arranging falling tetrominoes to form complete horizontal rows without any gaps. As you clear lines, your score increases, and the game level advances, leading to faster falling pieces. The game ends when new pieces can no longer be spawned at the top of the board due to existing blocks.
+The goal of Tetris is to clear lines by arranging falling tetrominoes to form complete horizontal rows without any gaps. As you clear lines, your score increases, and the game level advances, leading to faster falling pieces. 
+The game ends when new pieces can no longer be spawned at the top of the board due to existing blocks.
 
 ## Installation and Running
 
