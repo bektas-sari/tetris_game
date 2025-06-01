@@ -1,6 +1,7 @@
 # Flutter Tetris Game
 
-This is a classic Tetris game implemented using the Flutter framework. It features traditional Tetris gameplay mechanics, including piece movement, rotation, line clearing, score tracking, and level progression. The game also includes a preview of the next falling piece and adapts its layout for both portrait and landscape orientations.
+This is a classic Tetris game implemented using the Flutter framework. It features traditional Tetris gameplay mechanics, including piece movement, rotation, line clearing, score tracking, and level progression. 
+The game also includes a preview of the next falling piece and adapts its layout for both portrait and landscape orientations.
 
 ## Features
 
