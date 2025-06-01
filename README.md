@@ -86,4 +86,5 @@ Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
 Academia: https://independent.academia.edu/bektassari <br>
 
 ---
----
+## License 
+MIT © 2025 Bektas SARI
