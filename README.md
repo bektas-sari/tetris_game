@@ -76,4 +76,14 @@ The core logic of the Tetris game is encapsulated within the `_TetrisGameState` 
     * **UI Layouts:** `_buildPortraitLayout` and `_buildLandscapeLayout` render the game differently based on orientation.
     * **Next Piece Preview:** `_buildNextPiecePreview` displays the next piece.
 
+## Developer
+
+**Bektas Sari**  
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
+
+---
 ---
