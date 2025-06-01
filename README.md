@@ -36,8 +36,8 @@ To run this Tetris game on your local machine, follow these steps:
 2.  **Clone the Repository (or save the code):**
     If you have this code in a repository, clone it:
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone <[repository_url](https://github.com/bektas-sari/tetris_game)>
+    cd tetris_game
     ```
     If you only have the code snippet, save it as `main.dart` inside a new Flutter project directory. You can create a new Flutter project with:
     ```bash
