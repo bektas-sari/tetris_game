@@ -78,9 +78,11 @@ The core logic of the Tetris game is encapsulated within the `_TetrisGameState` 
 
 ## 👤 Developer
 
-**Bektaş Sarı**
-PhD in Advertising, AI + Creativity researcher
-Flutter Developer & Software Educator
+## 👤 Developer
+
+**Bektaş Sarı**<br>
+PhD in Advertising, AI + Creativity researcher<br>
+Flutter Developer & Software Educator<br>
 
 - **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
 - **GitHub:** [github.com/bektas-sari](https://github.com/bektas-sari)  
